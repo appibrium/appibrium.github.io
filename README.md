@@ -42,8 +42,8 @@ To become a globally trusted engineering company shaping the future through inno
 
 Our official brand assets, corporate logos, vector files, and typography guidelines are available inside our local **Brand Identity Kit**.
 
-Access it here:
-👉 **[Appibrium Brand Portal](https://appibrium.github.io/portal/index.html)**
+*   👉 **[Appibrium Brand Portal](https://appibrium.github.io/portal/index.html)** — Interactive guidelines & downloads.
+*   🤖 **[Brand API (brand.json)](https://appibrium.github.io/brand.json)** — Machine-readable JSON endpoint containing brand details, colors, typography scale, logo paths, and compliance rules (optimized for AI assistants).
 
 ---
 
