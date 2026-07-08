@@ -1,51 +1,46 @@
-<img width="639" height="237" alt="Appibrium Banner" src="https://github.com/user-attachments/assets/e70ddecd-2efe-4fd9-a1d2-d67e474308a1" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/lockup/lockup_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logos/lockup/lockup_light.svg">
+  <img alt="Appibrium Logo" src="logos/lockup/lockup_light.svg" width="340">
+</picture>
 
 # Appibrium — Engineering the Future
 
-> **apps. elevated.**
+> **Engineering the Future**
 >
-> Appibrium is a modern software development studio shaping the future of apps across platforms. We craft high-performance solutions—from mobile to desktop, web to enterprise systems—using technologies like Flutter, .NET, and more. Whether you're launching a startup, upgrading your business tools, or building something bold and custom—we’re here to build it right.
+> Appibrium is an engineering company that designs, builds, and scales intelligent technologies across software, AI, cloud infrastructure, embedded systems, and IoT. We partner with startups, businesses, and organizations to create reliable, future-ready solutions that solve real-world problems.
 
 ---
 
-## 🌐 Public Showcase
-
-Our public landing page is hosted live at:
-👉 **[appibrium.github.io](https://appibrium.github.io)** (or visit **[appibrium.com](https://appibrium.com)**)
+## 🌐 Visit us at **[appibrium.com](https://appibrium.com)**
 
 ---
 
-## 🚀 Our Core Specialties
+## 🚀 About Appibrium
 
-### 📟 Embedded Systems & IoT
-Creating smart, connected hardware solutions integrating sensors, devices, and real-time data.
+**Appibrium** is an engineering-driven technology company building the next generation of intelligent systems. Our expertise spans AI engineering, software development, cloud infrastructure, embedded systems, IoT, and digital product engineering. We combine research, design, and engineering to create scalable technologies that empower people, businesses, and communities.
 
-### 🧠 AI Engineering
-Designing intelligent systems and features that automate workflows and enhance user experience.
+### Mission
+To engineer meaningful technology that empowers people, businesses, and communities through intelligent, scalable, and reliable solutions.
 
-### ☁️ Cloud Architecture
-Designing secure and scalable cloud infrastructure for modern digital products.
+### Vision
+To become a globally trusted engineering company shaping the future through innovation, research, and technology.
 
-### ⚙️ Software Engineering
-Building scalable, reliable, and maintainable software for real-world applications across mobile, web, and desktop.
+## 🛠️ What We Do (Services)
 
----
-
-## 🛠️ Technology Stack
-
-We leverage a cutting-edge technical ecosystem to deliver premium solutions:
-
-*   **Frontend**: React, Next.js, Vue.js, Angular, TypeScript, Tailwind CSS
-*   **Backend**: Node.js, Python, Java, C#/.NET, Go, PHP
-*   **Mobile**: Flutter, React Native, Swift (iOS), Kotlin (Android)
-*   **Databases & Caching**: PostgreSQL, MySQL, MongoDB, Redis, SQLite, Firebase
-*   **Cloud & DevOps**: AWS, Google Cloud, Azure, Docker, Kubernetes, Jenkins, Git
+*   **AI Engineering**: Designing intelligent systems and features that automate workflows and enhance user experience.
+*   **Software Engineering**: Building scalable, reliable, and maintainable software for real-world applications.
+*   **Cloud Infrastructure**: Designing secure and scalable cloud infrastructure for modern digital products.
+*   **Embedded Systems**: Designing and developing customized hardware systems.
+*   **Internet of Things (IoT)**: Creating smart, connected hardware solutions integrating sensors, devices, and real-time data.
+*   **Product Engineering**: Fusing research, design, and engineering to create end-to-end scalable technologies.
+*   **Research & Innovation**: Exploring next-generation technologies to solve complex real-world problems.
 
 ---
 
 ## 🎨 Interactive Brand Assets & Design Guidelines
 
-Our official brand assets, corporate logos, vector files, and typography guidelines are available inside our local **Brand Identity Kit**. 
+Our official brand assets, corporate logos, vector files, and typography guidelines are available inside our local **Brand Identity Kit**.
 
 Access it here:
 👉 **[Appibrium Brand Portal](portal/index.html)**
