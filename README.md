@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logos/lockup/lockup_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="logos/lockup/lockup_light.svg">
-  <img alt="Appibrium Logo" src="logos/lockup/lockup_light.svg" width="340">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_light.svg">
+  <img alt="Appibrium Logo" src="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_light.svg" width="340">
 </picture>
 
 # Appibrium — Engineering the Future
@@ -43,7 +43,7 @@ To become a globally trusted engineering company shaping the future through inno
 Our official brand assets, corporate logos, vector files, and typography guidelines are available inside our local **Brand Identity Kit**.
 
 Access it here:
-👉 **[Appibrium Brand Portal](portal/index.html)**
+👉 **[Appibrium Brand Portal](https://appibrium.github.io/portal/index.html)**
 
 ---
 
