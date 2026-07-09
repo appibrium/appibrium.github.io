@@ -10,7 +10,7 @@
     "contact": {
       "email": "hello@appibrium.com",
       "address": "23/A Shukrabad, Dhaka, Bangladesh, 1207",
-      "website": "https://appibrium.github.io/"
+      "website": "https://appibrium.com"
     },
     "social_channels": {
       "facebook": "https://www.facebook.com/appibrium",
@@ -99,14 +99,29 @@
         "family": "Jost",
         "provider": "Google Fonts",
         "style": "Geometric, clean, and forward-looking",
-        "weights": [300, 400, 500, 600, 700, 800, 900],
+        "weights": [
+          300,
+          400,
+          500,
+          600,
+          700,
+          800,
+          900
+        ],
         "recommended_usage": "Display headlines, hero titles, and corporate signature typography."
       },
       "secondary": {
         "family": "Plus Jakarta Sans",
         "provider": "Google Fonts",
         "style": "Humanist-geometric hybrid, highly legible",
-        "weights": [300, 400, 500, 600, 700, 800],
+        "weights": [
+          300,
+          400,
+          500,
+          600,
+          700,
+          800
+        ],
         "recommended_usage": "Body copy, taglines, guidelines, labels, and UI controls."
       }
     }

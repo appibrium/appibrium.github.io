@@ -1,0 +1,9 @@
+# =========================================
+# Appibrium Directory — robots.txt
+# Domain: appibrium.github.io
+# =========================================
+
+User-agent: *
+Allow: /
+
+Sitemap: https://appibrium.github.io/sitemap.xml
