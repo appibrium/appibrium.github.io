@@ -197,6 +197,17 @@
           }
         }
       },
+      "wordmark_clean": {
+        "description": "Tagline-free typography brand signature for streamlined visual layouts.",
+        "variants": {
+          "dark_backgrounds": {
+            "svg": "logos/wordmark/wordmark_notag_light.svg"
+          },
+          "light_backgrounds": {
+            "svg": "logos/wordmark/wordmark_notag_dark.svg"
+          }
+        }
+      },
       "stacked_logo": {
         "description": "Centered square logo configuration, best for square profiles, apparel branding, and social avatar marks.",
         "variants": {
@@ -217,11 +228,11 @@
       "description": "Social media cover and profile logo elements for digital channels.",
       "social_cover": {
         "description": "Appibrium social media channel cover banner graphic.",
-        "png": "portal/elements/social_cover.png"
+        "png": "media-kit/elements/social_cover.png"
       },
       "social_logo": {
         "description": "Appibrium social media profile logo symbol graphic.",
-        "png": "portal/elements/social_logo.png"
+        "png": "media-kit/elements/social_logo.png"
       }
     }
   },

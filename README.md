@@ -1,5 +1,5 @@
 <a href="https://appibrium.com">
-  <img src="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/portal/elements/social_cover.png" alt="Appibrium Social Cover Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/media-kit/elements/social_cover.png" alt="Appibrium Social Cover Banner" width="100%">
 </a>
 
 <br/>
@@ -43,7 +43,7 @@ To become a globally trusted engineering company shaping the future through inno
 
 Our official brand assets, corporate logos, vector files, and typography guidelines are available inside our local **Brand Identity Kit**.
 
-*   👉 **[Appibrium Brand Portal](https://appibrium.github.io/portal/index.html)** — Interactive guidelines & downloads.
+*   👉 **[Appibrium Media & Brand Kit](https://appibrium.github.io/media-kit/index.html)** — Interactive guidelines & downloads.
 *   🤖 **[Brand API (brand.json)](https://appibrium.github.io/brand.json)** — Machine-readable JSON endpoint containing brand details, colors, typography scale, logo paths, and compliance rules (optimized for AI assistants).
 
 ---
