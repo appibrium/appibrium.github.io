@@ -212,6 +212,17 @@
           }
         }
       }
+    },
+    "elements": {
+      "description": "Social media cover and profile logo elements for digital channels.",
+      "social_cover": {
+        "description": "Appibrium social media channel cover banner graphic.",
+        "png": "portal/elements/social_cover.png"
+      },
+      "social_logo": {
+        "description": "Appibrium social media profile logo symbol graphic.",
+        "png": "portal/elements/social_logo.png"
+      }
     }
   },
   "compliance_and_rules": {
